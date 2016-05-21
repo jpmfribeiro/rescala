@@ -1,4 +1,4 @@
-package com.rescala
+package rescala
 
 import java.io.File
 

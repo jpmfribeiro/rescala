@@ -1,4 +1,4 @@
-package com.rescala
+package rescala
 
 /**
   * Created by jpedro on 21.05.16.
